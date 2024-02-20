@@ -1,4 +1,5 @@
-# Barra de Progresso com Botões de Navegação
+# Barra de Progresso
+
 
 Projeto simples de uma barra de progresso com botões para voltar ou avançar, desenvolvido como parte do aprendizado de JavaScript, com foco no uso de functions para controlar o progresso da barra.
 
